@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Source+Code+Pro&display=swap');
+
+div[aria-label="Exclusive to Nitro"] {
+    display: none;
+}
+
+.betaTagContainer-1JbzxP {
+    display: none;
+}
+
+
+button[aria-label="Send a gift"] {
+    display: none;
+}
+
+li[aria-posinset="2"] {
+    display: none;
+}
+
+li[aria-posinset="3"] {
+    display: none;
+}
+
+a[href="https://support.discord.com"] {
+    display: none;
+}
+
+/*
+.winButtonClose-3Q8ZH5 {
+    display: none;
+}
+*/
+
+.tryItOutSection-W9qeGH {
+    display: none;
+}
+
+.birthdayFeatureBorder-24qmMm {
+    display: none;
+}
+
+.upsellOverlayContainer-3NMgTS {
+    display: none;
+}
+
+.wrapper-3t3Yqv {
+    transform: scale(.95);
+}
+
+.buttonIcon-2Zsrs2 {
+    color: 000;
+}
+
+
+
+:root {
+    --decoration-to-avatar-ratio: 1.2;
+}
+
+:root,
+:root:lang(bg),
+:root:lang(el),
+:root:lang(ru),
+:root:lang(uk) {
+    --font-code: "Source Code Pro", "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+}
+
+
+* {
+    --font-primary: "Open Sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "Open Sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-headline: "Open Sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+html {
+    --guild-header-text-shadow: 0 1px 1px hsl(var(--white-500-hsl)/0.4);
+    --elevation-stroke: 0 0 0 1px hsl(var(--primary-860-hsl)/0.08);
+    --elevation-low: 0 1px 0 hsl(var(--primary-860-hsl)/0.1), 0 1.5px 0 hsl(var(--primary-900-hsl)/0.025), 0 2px 0 hsl(var(--primary-860-hsl)/0.025);
+    --elevation-medium: 0 4px 4px hsl(var(--black-500-hsl)/0.08);
+    --elevation-high: 0 8px 16px hsl(var(--black-500-hsl)/0.16);
+}
+
+* {
+    --brand-experiment-100: #ffab00;
+    --brand-experiment-130: #ffab00;
+    --brand-experiment-160: #ffab00;
+    --brand-experiment-200: #ffab00;
+    --brand-experiment-230: #ffab00;
+    --brand-experiment-260: #ffab00;
+    --brand-experiment-300: #ffab00;
+    --brand-experiment-330: #ffab00;
+    --brand-experiment-360: #ffab00;
+    --brand-experiment-400: #ffab00;
+    --brand-experiment-430: #ffab00;
+    --brand-experiment-460: #ffab00;
+    --brand-experiment: #ffab00;
+    --brand-experiment-500: #ffab00;
+    --brand-experiment-530: #ffab00;
+    --brand-experiment-560: #ffab00;
+    --brand-experiment-600: #ffab00;
+    --brand-experiment-630: #ffab00;
+    --brand-experiment-660: #ffab00;
+    --brand-experiment-700: #ffab00;
+    --brand-experiment-730: #ffab00;
+    --brand-experiment-760: #ffab00;
+    --brand-experiment-800: #ffab00;
+    --brand-experiment-830: #ffab00;
+    --brand-experiment-860: #ffab00;
+    --brand-experiment-900: #000000;
+    --brand-experiment-05a: rgba(255, 171, 60, 0.05);
+    --brand-experiment-10a: rgba(255, 171, 60, 0.1);
+    --brand-experiment-15a: rgba(255, 171, 60, 0.15);
+    --brand-experiment-20a: rgba(255, 171, 60, 0.2);
+    --brand-experiment-25a: rgba(255, 171, 60, 0.25);
+    --brand-experiment-30a: rgba(255, 171, 60, 0.3);
+    --brand-experiment-35a: rgba(255, 171, 60, 0.35);
+    --brand-experiment-40a: rgba(255, 171, 60, 0.4);
+    --brand-experiment-45a: rgba(255, 171, 60, 0.45);
+    --brand-experiment-50a: rgba(255, 171, 60, 0.5);
+    --brand-experiment-55a: rgba(255, 171, 60, 0.55);
+    --brand-experiment-60a: rgba(255, 171, 60, 0.6);
+    --brand-experiment-65a: rgba(255, 171, 60, 0.65);
+    --brand-experiment-70a: rgba(255, 171, 60, 0.7);
+    --brand-experiment-75a: rgba(255, 171, 60, 0.75);
+    --brand-experiment-80a: rgba(255, 171, 60, 0.8);
+    --brand-experiment-85a: rgba(255, 171, 60, 0.85);
+    --brand-experiment-90a: rgba(255, 171, 60, 0.9);
+    --brand-experiment-95a: rgba(255, 171, 60, 0.95);
+}
+
+img[src="/assets/6024f311af925206143919b880e34a30.png"] {opacity: 40%;}
+
+div[aria-label="Clyde"] {display: none;}
+
+[aria-label="Nitro"],[aria-controls="nitro-server-boost-tab"],[aria-label="Subscriptions"],[aria-label="Gift Inventory"],[aria-controls="library-inventory-tab"],[aria-controls="billing-tab"] { display: none; }
+
+#nitro-server-boost-tab > * { display: none; }
+
+
+#billing-tab > * { display: none; }
+
+[aria-label="PayPal"] { display: none; }
+
+button:hover {
+  background-image: url(https://raw.githubusercontent.com/ckoseyan/discordtest/main/circle.svg);
+  background-size: 3px;
+}
+
+#my-account-tab > div > div:nth-child(5) > div.children-2C96Ex > div.buttonContainer-cmXa0P > button.button-ejjZWC.lookOutlined-3RTC7c.colorRed-2VFhM4.sizeSmall-3R2P2p.grow-2T4nbg { display: none }
+
+
+
+#vencordsettings-tab > * > .vc-settings-donate > img {
+  content: url(https://media.discordapp.net/stickers/781322967127818240.png);
+  background-size: 128px;
+}
+
+#vencordsettings-tab > * > .vc-settings-donate > img:hover {
+  content: url(https://media.discordapp.net/stickers/781322566060343296.png);
+  background-size: 128px;
+}
+
+
+/*div[class="wordmarkWindows-2dq6rw wordmark-2u86JB"] {
+  display: none;
+}*/
+
+#app-mount > div.appAsidePanelWrapper-ev4hlp > div.themeEditor-1Ebyfp > div.editorBody-1rnOXH.thin-RnSY0a.scrollerBase-1Pkza4 > div:nth-child(1) > section:nth-child(2) > div.header-LaudvZ > div > h3 { display: none; }
